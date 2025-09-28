@@ -37,4 +37,8 @@ Implement automatic notifications for price drops.
 
 Build a web interface for user-friendly interaction.
 
+# Outputs
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/ecdc13e8-16df-4344-ba42-122157b667d6" />
+<img width="1907" height="1006" alt="image" src="https://github.com/user-attachments/assets/6e1de78e-bd45-469e-8747-c7af6eb3ce42" />
+
 
